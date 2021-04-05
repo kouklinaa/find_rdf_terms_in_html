@@ -41,29 +41,21 @@
 
 Stats :
 
-<table>
-<tr><th>BSV </th><th>PrefLabel</th></tr>
-<tr><td>
 
-| type          | freq          |
+
+| BSV          | freq          |
 |--|--|
 | count         | 3722          |
 | unique        | 77            |
 | top           | cle01ba24     |
 
 
-
-</td><td>
- 
-| type          | freq          |             
+| prefLabel          | freq          |             
 |--|--|     
 | count         | 3722          |       
 | unique        | 49            |       
 | top           | vigne         |   
 
-
-</td></tr>
-</table>
 
 
 tf-idf :
