@@ -26,7 +26,7 @@ Problèmes rencontrés:
 
 
 
-1. **FCU**
+**FCU**
 
 _tf-idf_ :
 
@@ -38,7 +38,7 @@ _tf-idf_ :
 
 
 
-2. **Stades phénologiques**
+**Stades phénologiques**
 
 
 
