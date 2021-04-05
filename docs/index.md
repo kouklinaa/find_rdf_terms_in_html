@@ -12,6 +12,17 @@
 > Les données sont disponibles sur
 > [https://gitlab.irstea.fr/copain/d2kab/-/tree/master/corpus_test/corpus_test_d2kab](url)
 
+
+**Stats :**
+
+| prefLabel     | freq          | 
+| ------------- |:-------------:| 
+| count         | 3722          | 
+| unique        | 49            | 
+| top           | 1788          |  
+      
+
+
 **Problèmes rencontrés :** 
 
 - [x] Sauts de ligne
