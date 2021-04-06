@@ -62,6 +62,9 @@
   
   * Lettres espacées 
 
+     <img align="center" src="lettres.png" width="100" height="180" />
+     
+     pdf : [http://ontology.inrae.fr/bsv/html/Corpus/Tests/Viticulture/pdf/BSV_2019_n13_cle0f596d.pdf](url)
 
 ### Vocabulaire :
 
