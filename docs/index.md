@@ -105,7 +105,7 @@ _Tf-idf :_
 
 **Stades phénologiques**
 
-- [x] projection charge dans le script
+- [x] projection fonctionne mais seulement pour un seul label : *"stade phénologique"*
 - [x] langue de prefLabel est corrigé en "fr"
 - [ ] créer des patrons type *"abricot, figue et pèche"*
 - [ ] trouver plus de matchs, par example :
