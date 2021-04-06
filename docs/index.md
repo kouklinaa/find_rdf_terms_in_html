@@ -1,4 +1,4 @@
-## Projection de la lexique
+## Projection du lexique
 
 
 ### Données :
